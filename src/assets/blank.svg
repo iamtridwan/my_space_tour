@@ -1,0 +1,11 @@
+<svg width="375" height="667" viewBox="0 0 375 667" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="375" height="667" fill="#0B0D17"/>
+<mask id="mask0_0_406" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="375" height="667">
+<rect width="375" height="667" fill="white"/>
+</mask>
+<g mask="url(#mask0_0_406)">
+<g style="mix-blend-mode:screen">
+<rect x="1171" y="263" width="2342" height="1044" transform="rotate(180 1171 263)"/>
+</g>
+</g>
+</svg>
